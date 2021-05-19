@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../yolov5/qr_data_train/train/images
+val: ../yolov5/qr_data_train/valid/images
 
 nc: 1
 names: ['qr_code']
